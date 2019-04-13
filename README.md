@@ -1,30 +1,10 @@
 # vue-store
 
-> A Vue.js project
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-
-# run unit tests
-npm run unit
-
-# run e2e tests
-npm run e2e
-
-# run all tests
-npm test
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+## 首页界面
+![index](https://github.com/xuzelin1/vue-store/blob/master/src/assets/index%E6%88%AA%E5%9B%BE.png)
+## 商品列表界面
+![index](https://github.com/xuzelin1/vue-store/blob/master/src/assets/%E5%95%86%E5%93%81%E6%88%AA%E5%9B%BE.png)
+## 购物车界面
+![index](https://github.com/xuzelin1/vue-store/blob/master/src/assets/%E8%B4%AD%E7%89%A9%E8%BD%A6%E6%88%AA%E5%9B%BE.png)
+## 我的界面
+![index](https://github.com/xuzelin1/vue-store/blob/master/src/assets/%E6%88%91%E7%9A%84%E6%88%AA%E5%9B%BE.png)
